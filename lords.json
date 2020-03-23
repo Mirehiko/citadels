@@ -1,0 +1,73 @@
+[{
+        "id": 0,
+        "name": "Ассасин",
+        "skills": "Убийство",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 1
+    },
+    {
+        "id": 1,
+        "name": "Вор",
+        "skills": "Кража",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 2
+    },
+    {
+        "id": 2,
+        "name": "Чародей",
+        "skills": "Обмен карт с игроком или колодой",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 3
+    },
+    {
+        "id": 3,
+        "name": "Король",
+        "skills": "Корона. Ресы с дворянских кварталов",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 4
+    },
+    {
+        "id": 4,
+        "name": "Епископ",
+        "skills": "Защита от разрушений. Ресы с религиозных кварталов",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 5
+    },
+    {
+        "id": 5,
+        "name": "Купец",
+        "skills": "Дополнительные монеты. Ресы с торговых кварталов",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 6
+    },
+    {
+        "id": 6,
+        "name": "Зодчий",
+        "skills": "Дополнительные карты. Множественное строительство",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 7
+    },
+    {
+        "id": 7,
+        "name": "Кондотьер",
+        "skills": "Разрушение. Ресы с военых кварталов",
+        "portrait": "url",
+        "skin": "url",
+        "isTaked": false,
+        "position": 8
+    }
+]
